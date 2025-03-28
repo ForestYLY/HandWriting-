@@ -80,6 +80,7 @@ void Widget::componentsInit()
     QStringList files = dir.entryList(QDir::Files);  // 只读取文件
     for(QString file : files)
     {
+        qDebug() << "字体" << file;
         ui->comboBox_3->addItem(file.split(".")[0], "./font/" + file);
     }
     // 设置graphicsView可以鼠标拖动
