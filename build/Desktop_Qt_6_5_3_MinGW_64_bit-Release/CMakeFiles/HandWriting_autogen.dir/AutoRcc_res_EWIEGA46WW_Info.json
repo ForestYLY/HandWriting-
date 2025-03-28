@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/HandWriting_autogen",
+	"CMAKE_BINARY_DIR" : "E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/project/Qt/Qt_Creator/HandWriting",
+	"CMAKE_SOURCE_DIR" : "E:/project/Qt/Qt_Creator/HandWriting",
+	"INCLUDE_DIR" : "E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/HandWriting_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/HandWriting_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.5.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/HandWriting_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/project/Qt/Qt_Creator/HandWriting/res.qrc",
+	"VERBOSITY" : 0
+}

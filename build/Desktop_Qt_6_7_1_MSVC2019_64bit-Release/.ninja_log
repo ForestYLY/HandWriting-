@@ -1,0 +1,12 @@
+# ninja log v5
+14	626	7645093663316727	HandWriting_autogen/timestamp	8757b5c273551816
+14	626	7645093663316727	HandWriting_autogen/mocs_compilation.cpp	8757b5c273551816
+14	626	7645093663316727	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/HandWriting_autogen/timestamp	8757b5c273551816
+14	626	7645093663316727	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/HandWriting_autogen/mocs_compilation.cpp	8757b5c273551816
+627	792	7645093665819153	HandWriting_autogen/EWIEGA46WW/qrc_res.cpp	a2488db53852531f
+627	792	7645093665819153	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Release/HandWriting_autogen/EWIEGA46WW/qrc_res.cpp	a2488db53852531f
+829	924	7645093667368085	CMakeFiles/HandWriting.dir/HandWriting_autogen/EWIEGA46WW/qrc_res.cpp.obj	add00f58d85b8628
+804	2780	7645093685928398	CMakeFiles/HandWriting.dir/main.cpp.obj	6c72a75b6d105db4
+792	2829	7645093686404203	CMakeFiles/HandWriting.dir/HandWriting_autogen/mocs_compilation.cpp.obj	e3be987b34e48375
+817	4323	7645093701147128	CMakeFiles/HandWriting.dir/widget.cpp.obj	bbb19da617dd9154
+4323	4556	7645093703552953	HandWriting.exe	62f15a3aa471016d

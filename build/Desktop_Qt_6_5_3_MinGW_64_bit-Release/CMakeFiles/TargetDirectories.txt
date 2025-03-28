@@ -1,0 +1,9 @@
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/HandWriting.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/install.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/HandWriting_autogen_timestamp_deps.dir
+E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_5_3_MinGW_64_bit-Release/CMakeFiles/HandWriting_autogen.dir

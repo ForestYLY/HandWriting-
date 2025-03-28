@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon/bigger _hover.png</file>
+        <file>img/icon/bigger.png</file>
+        <file>img/icon/smaller.png</file>
+        <file>img/icon/smaller_hover.png</file>
+    </qresource>
+</RCC>

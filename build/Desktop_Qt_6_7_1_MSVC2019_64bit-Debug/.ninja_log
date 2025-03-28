@@ -1,0 +1,21 @@
+# ninja log v5
+13	307	7645092206455348	HandWriting_autogen/timestamp	75df50ade0892803
+13	307	7645092206455348	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/HandWriting_autogen/mocs_compilation.cpp	75df50ade0892803
+13	307	7645092206455348	HandWriting_autogen/mocs_compilation.cpp	75df50ade0892803
+785	3774	7645083380760957	CMakeFiles/HandWriting.dir/main.cpp.obj	3d0a5eea6a37829f
+529	4889	7644861871285848	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/HandWriting_autogen/EWIEGA46WW/qrc_res.cpp	38143e115c31c049
+13	307	7645092206455348	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/HandWriting_autogen/timestamp	75df50ade0892803
+328	2879	7645092232128010	CMakeFiles/HandWriting.dir/widget.cpp.obj	a103d8193536421f
+773	3760	7645083380760957	CMakeFiles/HandWriting.dir/HandWriting_autogen/mocs_compilation.cpp.obj	6038febf429aea91
+2880	3155	7645092234409206	HandWriting.exe	8613fef1ae6ce377
+529	4889	7644861871285848	HandWriting_autogen/EWIEGA46WW/qrc_res.cpp	38143e115c31c049
+4897	31742	7644862138336598	CMakeFiles/HandWriting.dir/HandWriting_autogen/EWIEGA46WW/qrc_res.cpp.obj	d615e0045cb955da
+10	264	7645092851329437	HandWriting_autogen/timestamp	75df50ade0892803
+10	264	7645092851329437	HandWriting_autogen/mocs_compilation.cpp	75df50ade0892803
+10	264	7645092851329437	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/HandWriting_autogen/timestamp	75df50ade0892803
+10	264	7645092851329437	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/HandWriting_autogen/mocs_compilation.cpp	75df50ade0892803
+283	412	7645092852743937	HandWriting_autogen/EWIEGA46WW/qrc_res.cpp	38143e115c31c049
+283	412	7645092852743937	E:/project/Qt/Qt_Creator/HandWriting/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/HandWriting_autogen/EWIEGA46WW/qrc_res.cpp	38143e115c31c049
+422	992	7645092858624661	CMakeFiles/HandWriting.dir/HandWriting_autogen/EWIEGA46WW/qrc_res.cpp.obj	d615e0045cb955da
+412	2975	7645092878400360	CMakeFiles/HandWriting.dir/widget.cpp.obj	a103d8193536421f
+2976	3359	7645092881232096	HandWriting.exe	8613fef1ae6ce377
